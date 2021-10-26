@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>mot de pass ou login incorrecte</description>
+   <name>Test-login-nonvalide</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a65e6639-f935-43ed-ba93-c5e4789fd27c</testCaseGuid>
+</TestCaseEntity>
